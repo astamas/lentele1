@@ -1,0 +1,28 @@
+
+table{
+    background: #FEC107;
+    border: 4px solid #FEC107;
+    border-collapse: collapse;
+    font-family: opensans;
+    
+}
+
+
+th {
+    background: #FEC107;
+    border: 1px solid #FEC107;
+    padding: 20px;
+    text-align: left;
+}
+
+.darkyellow {
+    background: #E5AE30;
+}
+
+td {
+    background:#382C6E;
+    border: 1px solid #FEC107;
+    padding: 20px;
+    text-align: justify;
+    color: white;
+}
